@@ -24,3 +24,5 @@ git config --local user.email <почта вашего аккаунта>
 - gitHub
 - bitBucket
 - gitLab
+
+git push origin <название ветки>
